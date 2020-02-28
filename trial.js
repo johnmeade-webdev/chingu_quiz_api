@@ -1,4 +1,4 @@
-fetch('http://example.com/movies.json')
+fetch('https://johnmeade-webdev.github.io/chingu_quiz_api/trial.json')
   .then((response) => {
     return response.json();
   })
