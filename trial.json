@@ -118,5 +118,148 @@
       "d": "Though not class-based, JavaScript is an Object-Oriented Programming Language."
     },
     "answer": "b"
+  },
+  {
+    "question": "If we want define style for an unique element, then which css selector will we use ?",
+    "id": 11,
+    "topic": "css",
+    "choices":{
+      "a":"id",
+      "b":"class",
+      "c":"text",
+      "d":"name"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "If we don't want to allow a floating div to the left side of an element, which css property will we use ?",
+    "id": 12,
+    "topic":"css",
+    "choices":{
+      "a":"margin",
+      "b":"clear",
+      "c":"float",
+      "d":"floating"
+    },
+    "answer":"b"
+  },
+  {
+    "question":"Suppose we want to arragnge five nos. of DIVs so that DIV4 is placed above DIV1. Now, which css property will we use to control the order of stack?",
+    "id":13,
+    "topic":"css",
+    "choices":{
+      "a":"d-index",
+      "b":"c-index",
+      "c":"s-index",
+      "d":"z-index"
+    },
+    "answer":"d"
+  },
+  {
+    "question":"an we align a Block element by setting the left and right margins ?",
+    "id":14,
+    "topic":"css",
+    "choices":{
+      "a": "yes, it's possible",
+      "b":"no, it's not possible"
+    },
+    "answer":"b"
+  },
+  {
+    "question":"If we want to wrap a block of text around an image, which css property will we use ?",
+    "id":14,
+    "topic":"css",
+    "choices":{
+      "a":"wrap",
+      "b":"push",
+      "c":"float",
+      "d": "align"
+    },
+    "answer":"c"
+  },
+  {
+    "question": "Can we define the text direction via css property ?",
+    "id": 15,
+    "topic":"css",
+    "choices":{
+      "a": "yes",
+      "b": "no"
+    },
+    "answer":"a"
+  },
+  {
+    "question":"If we want to show an Arrow as cursor, then which value we will use ?",
+    "id":15,
+    "topic":"css",
+    "choices":{
+      "a":"pointer",
+      "b":"default",
+      "c":"arrow",
+      "d":"arr"
+    },
+    "answer":"b"
+  },
+  {
+    "question":"If we want to use a nice looking green dotted border around an image, which css property will we use?",
+    "id":16,
+    "topic":"css",
+    "choices":{
+      "a":"border-color",
+      "b":"border-decoration",
+      "c":"border-style",
+      "d":"border-line"
+    },
+    "answer":"c"
+  },
+  {
+    "question":" Which of the following properties will we use to display border around a cell without any content?",
+    "id":17,
+    "topic":"css",
+    "choices":{
+      "a":"empty-cell",
+      "b":"blank-cell",
+      "c":"noncontent-cell",
+      "d":"void-cell"
+    },
+    "answer":"a"
+  },
+  {
+    "question":"What should be the table width, so that the width of a table adjust to the current width of the browser window?",
+    "id":18,
+    "topic":"css",
+    "choices":{
+      "a":"640 pixels",
+      "b":"100%",
+      "c":"full-screen",
+      "d":"1024px"
+    },
+    "answer":"a"
+  },
+  {
+    "question":"How can we write comment along with CSS code ?",
+    "id":19,
+    "topic":"css",
+    "choices":{
+      "a":"/* a comment */",
+      "b":"// a comment //",
+      "c":"/ a comment /",
+      "d":"<' a comment'>"
+    },
+    "answer":"a"
+  },
+  {
+    "question":"Which css property you will use if you want to add some margin between a DIV's border and its inner text?",
+    "id":20,
+    "topic":"css",
+    "choices":{
+      "a":"spacing",
+      "b":"margin",
+      "c":"padding",
+      "d":"inner-margin"
+    },
+    "answer":"c"
   }
+  
+
 ]
+
