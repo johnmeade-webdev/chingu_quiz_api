@@ -277,7 +277,7 @@
     "topic":"javascript",
     "choices":{
       "a":"true",
-      "b":"false",     
+      "b":"false"     
     },
     "answer":"a"
   },
