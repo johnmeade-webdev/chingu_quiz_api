@@ -156,7 +156,7 @@
     "answer":"d"
   },
   {
-    "question":"an we align a Block element by setting the left and right margins ?",
+    "question":"Can we align a Block element by setting the left and right margins ?",
     "id":14,
     "topic":"css",
     "choices":{
@@ -366,7 +366,7 @@
     "answer":"d"
   },
   {
-    "question":"he external JavaScript file must contain <script> tag. True or False?",
+    "question":"The external JavaScript file must contain <script> tag. True or False?",
     "id":29,
     "topic":"javascript",
     "choices":{
@@ -386,6 +386,78 @@
       "d":"<script name=”geek.js”>"
     },
     "answer": "a"
+  },
+   {
+    "question": "What purpose does alt serve in an image tag?",
+    "id": 31,
+    "topic": "html",
+    "choices": {
+      "a": "Provide visually impaired users with descriptive text of an image.",
+      "b": "If an image link is broken, this text can replace the image",
+      "c": "alt tags can be useful for users who browse with images turned off.",
+      "d": "ALL of the above."
+    },
+    "answer": "d"  
+  },
+  {
+    "question": "What does the JavaScript function getElementsByClassName(<classname>) return?",
+    "id": 32,
+    "topic": "javascript",
+    "choices":{
+      "a": "The Class object identified by <classname>",
+      "b": "A collection of HTML objects, or nodes in a list structure that can be iterated.",
+      "c": "The first element that it finds in the HTML document.",
+      "d": "All classes in the document by <classname>"      
+    },
+    "answer": "b"    
+  },
+  {
+    "question" : "What does the term 'bootstrap' refer to?",
+    "id": 33,
+    "topic": "css",
+    "choices":{
+      "a": "A javascript file linked into the <head> with a <script> tag.",
+      "b": "Any css file stylesheet placed in the HTML.",
+      "c": "A phrase that means using an outside sources css file to style your HTML.",
+      "d": "A popular front-end framework that can be used for styling, user-interface, and much more."
+     },
+    "answer": "d"    
+  },
+  {
+    "question": "What does the term 'Vanilla JavaScript' refer to?",
+    "id": 34,
+    "topic": "javascript",
+    "choices":{
+      "a": "Vanilla JavaScript is referring to raw/plain JavaScript. Frameworks are built with Vanilla JavaScript.",
+      "b": "A framework of JavaScript that focuses on condensed library code.",
+      "c": "A play on words to convince companies that raw/plain JavaScript was a new and great framework.",
+      "d": "A Ben and Jerry's ice cream flavor that leaves your tummy feeling undefined."      
+    },
+    "answer": "a"
+    
+  },
+  {
+    "question": "Why is the 'lang' attribute necessary?",
+    "id": 35,
+    "topic": "html",
+    "choices":{
+      "a": "It's not necessary.",
+      "b": "This is used to signal to screen readers what language the content of the page is written in."
+       },
+    "answer": "b"
+  },
+  {
+    "question": "In window.localStorage(<item>), what is the acceptable data type for <item>?",
+    "id": 36,
+    "topic": "html",
+    "choices":{
+      "a": "the item can be any data type.",
+      "b": "the item can only be integers.",
+      "c": "the item has to be alphanumeric only.",
+      "d": "the item can only be a string type."     
+       },
+    "answer": "d"
+    
   }
 ]
 
