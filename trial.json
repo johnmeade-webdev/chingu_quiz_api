@@ -376,14 +376,14 @@
     "answer":"b"
   },
   {
-    "question":"What is the correct syntax for referring to an external script called “geek.js”?",
+    "question":"What is the correct syntax for referring to an external script called 'geek.js'?",
     "id":30,
     "topic":"javascript",
     "choices":{
-      "a":"<script src=”geek.js”>",
-      "b":"<script href=”geek.js”>",
-      "c":"<script ref=”geek.js”>",
-      "d":"<script name=”geek.js”>"
+      "a":"<script src='geek.js'>",
+      "b":"<script href='geek.js'>",
+      "c":"<script ref='geek.js'>",
+      "d":"<script name='geek.js'>"
     },
     "answer": "a"
   }
