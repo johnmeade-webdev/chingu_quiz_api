@@ -458,6 +458,30 @@
        },
     "answer": "d"
     
+  },
+  {
+    "question": "What does the `===` operator check in JavaScript?",
+    "id": 37,
+    "topic": "javascript",
+    "choices":{
+      "a": "Value and type equality.",
+      "b": "Only value equality.",
+      "c": "Only type equality.",
+      "d": "Reference equality."     
+       },
+    "answer": "a" 
+  },
+  {
+    "question": "Which keyword is used to declare a block-scoped variable in ES6?",
+    "id": 38,
+    "topic": "javascript",
+    "choices":{
+      "a": "`var`",
+      "b": "`let`",
+      "c": "`console`",
+      "d": "`new`"     
+       },
+    "answer": "b" 
   }
 ]
 
